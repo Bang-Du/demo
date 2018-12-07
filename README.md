@@ -1,3 +1,3 @@
-# 你猜我是谁
+# guess who am i ?
 
-## 我不告诉你
+## i don't tell you!
